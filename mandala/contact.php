@@ -104,7 +104,8 @@
 
 
     <!-- Google Map js -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmGmeot5jcjdaJTvfCmQPfzeoG_pABeWo "></script>
+<!--Add the google api key here for integrating map  -->
+    <script src="https://maps.googleapis.com/maps/api/js?key="Add your google api key here "></script>
     <script src="js/contact-map.js"></script>
     <script>
         // When the window has finished loading create our google map below
